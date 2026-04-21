@@ -8,6 +8,7 @@ class Solution {
         List<Integer> values = new ArrayList<>(map.keySet());
         Collections.sort(values);
         for(int i=0; i<values.size(); i++){
+            
             for(int j=i+1; j<values.size(); j++){
                 int x = values.get(i);
                 int y = values.get(j);
