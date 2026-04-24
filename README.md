@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/gnanaprasanna-29/leetcode/tree/master/0001-two-sum) |
+| [0053-maximum-subarray](https://github.com/gnanaprasanna-29/leetcode/tree/master/0053-maximum-subarray) |
 | [0643-maximum-average-subarray-i](https://github.com/gnanaprasanna-29/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/gnanaprasanna-29/leetcode/tree/master/3852-smallest-pair-with-different-frequencies) |
 ## Hash Table
@@ -20,4 +21,12 @@
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/gnanaprasanna-29/leetcode/tree/master/0643-maximum-average-subarray-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/gnanaprasanna-29/leetcode/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/gnanaprasanna-29/leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
