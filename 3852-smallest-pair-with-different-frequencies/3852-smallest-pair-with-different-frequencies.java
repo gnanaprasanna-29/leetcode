@@ -3,7 +3,7 @@ class Solution {
         Map<Integer, Integer> map = new HashMap<>();
         for(int num : nums)
         {
-            map.put(num, map.getOrDefault(num, 0) + 1);
+        map.put(num, map.getOrDefault(num, 0) + 1);
         }
         List<Integer> values = new ArrayList<>(map.keySet());
         Collections.sort(values);
