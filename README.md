@@ -10,6 +10,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gnanaprasanna-29/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0643-maximum-average-subarray-i](https://github.com/gnanaprasanna-29/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/gnanaprasanna-29/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [2553-separate-the-digits-in-an-array](https://github.com/gnanaprasanna-29/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/gnanaprasanna-29/leetcode/tree/master/3852-smallest-pair-with-different-frequencies) |
 ## Hash Table
 |  |
@@ -42,4 +43,8 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gnanaprasanna-29/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Simulation
+|  |
+| ------- |
+| [2553-separate-the-digits-in-an-array](https://github.com/gnanaprasanna-29/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 <!---LeetCode Topics End-->
