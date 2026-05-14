@@ -13,12 +13,14 @@
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/gnanaprasanna-29/leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/gnanaprasanna-29/leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2553-separate-the-digits-in-an-array](https://github.com/gnanaprasanna-29/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
+| [2784-check-if-array-is-good](https://github.com/gnanaprasanna-29/leetcode/tree/master/2784-check-if-array-is-good) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/gnanaprasanna-29/leetcode/tree/master/3852-smallest-pair-with-different-frequencies) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/gnanaprasanna-29/leetcode/tree/master/0001-two-sum) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/gnanaprasanna-29/leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [2784-check-if-array-is-good](https://github.com/gnanaprasanna-29/leetcode/tree/master/2784-check-if-array-is-good) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/gnanaprasanna-29/leetcode/tree/master/3852-smallest-pair-with-different-frequencies) |
 ## Counting
 |  |
@@ -58,6 +60,7 @@
 |  |
 | ------- |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/gnanaprasanna-29/leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [2784-check-if-array-is-good](https://github.com/gnanaprasanna-29/leetcode/tree/master/2784-check-if-array-is-good) |
 ## Prefix Sum
 |  |
 | ------- |
