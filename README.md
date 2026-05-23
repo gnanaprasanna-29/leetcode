@@ -14,6 +14,7 @@
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/gnanaprasanna-29/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/gnanaprasanna-29/leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/gnanaprasanna-29/leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/gnanaprasanna-29/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2553-separate-the-digits-in-an-array](https://github.com/gnanaprasanna-29/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2784-check-if-array-is-good](https://github.com/gnanaprasanna-29/leetcode/tree/master/2784-check-if-array-is-good) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/gnanaprasanna-29/leetcode/tree/master/3852-smallest-pair-with-different-frequencies) |
