@@ -35,6 +35,7 @@
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/gnanaprasanna-29/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/gnanaprasanna-29/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1871-jump-game-vii](https://github.com/gnanaprasanna-29/leetcode/tree/master/1871-jump-game-vii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -44,6 +45,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/gnanaprasanna-29/leetcode/tree/master/0053-maximum-subarray) |
 | [1340-jump-game-v](https://github.com/gnanaprasanna-29/leetcode/tree/master/1340-jump-game-v) |
+| [1871-jump-game-vii](https://github.com/gnanaprasanna-29/leetcode/tree/master/1871-jump-game-vii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -73,4 +75,9 @@
 |  |
 | ------- |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/gnanaprasanna-29/leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [1871-jump-game-vii](https://github.com/gnanaprasanna-29/leetcode/tree/master/1871-jump-game-vii) |
+## String
+|  |
+| ------- |
+| [1871-jump-game-vii](https://github.com/gnanaprasanna-29/leetcode/tree/master/1871-jump-game-vii) |
 <!---LeetCode Topics End-->
