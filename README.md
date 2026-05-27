@@ -26,6 +26,7 @@
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/gnanaprasanna-29/leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2784-check-if-array-is-good](https://github.com/gnanaprasanna-29/leetcode/tree/master/2784-check-if-array-is-good) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/gnanaprasanna-29/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/gnanaprasanna-29/leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/gnanaprasanna-29/leetcode/tree/master/3852-smallest-pair-with-different-frequencies) |
 ## Counting
 |  |
@@ -82,4 +83,5 @@
 | ------- |
 | [1871-jump-game-vii](https://github.com/gnanaprasanna-29/leetcode/tree/master/1871-jump-game-vii) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/gnanaprasanna-29/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/gnanaprasanna-29/leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
 <!---LeetCode Topics End-->
