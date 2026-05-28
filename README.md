@@ -18,6 +18,7 @@
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/gnanaprasanna-29/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2553-separate-the-digits-in-an-array](https://github.com/gnanaprasanna-29/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2784-check-if-array-is-good](https://github.com/gnanaprasanna-29/leetcode/tree/master/2784-check-if-array-is-good) |
+| [3093-longest-common-suffix-queries](https://github.com/gnanaprasanna-29/leetcode/tree/master/3093-longest-common-suffix-queries) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/gnanaprasanna-29/leetcode/tree/master/3852-smallest-pair-with-different-frequencies) |
 ## Hash Table
 |  |
@@ -82,6 +83,11 @@
 |  |
 | ------- |
 | [1871-jump-game-vii](https://github.com/gnanaprasanna-29/leetcode/tree/master/1871-jump-game-vii) |
+| [3093-longest-common-suffix-queries](https://github.com/gnanaprasanna-29/leetcode/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/gnanaprasanna-29/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/gnanaprasanna-29/leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
+## Trie
+|  |
+| ------- |
+| [3093-longest-common-suffix-queries](https://github.com/gnanaprasanna-29/leetcode/tree/master/3093-longest-common-suffix-queries) |
 <!---LeetCode Topics End-->
