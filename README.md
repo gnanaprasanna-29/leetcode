@@ -51,6 +51,7 @@
 | [0053-maximum-subarray](https://github.com/gnanaprasanna-29/leetcode/tree/master/0053-maximum-subarray) |
 | [1340-jump-game-v](https://github.com/gnanaprasanna-29/leetcode/tree/master/1340-jump-game-v) |
 | [1871-jump-game-vii](https://github.com/gnanaprasanna-29/leetcode/tree/master/1871-jump-game-vii) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/gnanaprasanna-29/leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -103,4 +104,12 @@
 |  |
 | ------- |
 | [3161-block-placement-queries](https://github.com/gnanaprasanna-29/leetcode/tree/master/3161-block-placement-queries) |
+## Math
+|  |
+| ------- |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/gnanaprasanna-29/leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+## Enumeration
+|  |
+| ------- |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/gnanaprasanna-29/leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 <!---LeetCode Topics End-->
