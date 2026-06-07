@@ -17,6 +17,7 @@
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/gnanaprasanna-29/leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/gnanaprasanna-29/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2126-destroying-asteroids](https://github.com/gnanaprasanna-29/leetcode/tree/master/2126-destroying-asteroids) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/gnanaprasanna-29/leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2553-separate-the-digits-in-an-array](https://github.com/gnanaprasanna-29/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/gnanaprasanna-29/leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2784-check-if-array-is-good](https://github.com/gnanaprasanna-29/leetcode/tree/master/2784-check-if-array-is-good) |
@@ -28,6 +29,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/gnanaprasanna-29/leetcode/tree/master/0001-two-sum) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/gnanaprasanna-29/leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/gnanaprasanna-29/leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2784-check-if-array-is-good](https://github.com/gnanaprasanna-29/leetcode/tree/master/2784-check-if-array-is-good) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/gnanaprasanna-29/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/gnanaprasanna-29/leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -114,4 +116,12 @@
 |  |
 | ------- |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/gnanaprasanna-29/leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+## Tree
+|  |
+| ------- |
+| [2196-create-binary-tree-from-descriptions](https://github.com/gnanaprasanna-29/leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
+## Binary Tree
+|  |
+| ------- |
+| [2196-create-binary-tree-from-descriptions](https://github.com/gnanaprasanna-29/leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 <!---LeetCode Topics End-->
