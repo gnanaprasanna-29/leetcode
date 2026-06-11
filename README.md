@@ -114,6 +114,7 @@
 ## Math
 |  |
 | ------- |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/gnanaprasanna-29/leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/gnanaprasanna-29/leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Enumeration
 |  |
@@ -123,8 +124,13 @@
 |  |
 | ------- |
 | [2196-create-binary-tree-from-descriptions](https://github.com/gnanaprasanna-29/leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/gnanaprasanna-29/leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Binary Tree
 |  |
 | ------- |
 | [2196-create-binary-tree-from-descriptions](https://github.com/gnanaprasanna-29/leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
+## Depth-First Search
+|  |
+| ------- |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/gnanaprasanna-29/leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 <!---LeetCode Topics End-->
