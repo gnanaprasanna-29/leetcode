@@ -64,6 +64,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gnanaprasanna-29/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gnanaprasanna-29/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/gnanaprasanna-29/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/gnanaprasanna-29/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/gnanaprasanna-29/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Binary Search
@@ -149,6 +150,7 @@
 ## Linked List
 |  |
 | ------- |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/gnanaprasanna-29/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/gnanaprasanna-29/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Stack
 |  |
