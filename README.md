@@ -63,6 +63,7 @@
 | [1871-jump-game-vii](https://github.com/gnanaprasanna-29/leetcode/tree/master/1871-jump-game-vii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/gnanaprasanna-29/leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/gnanaprasanna-29/leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/gnanaprasanna-29/leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/gnanaprasanna-29/leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Two Pointers
 |  |
@@ -138,6 +139,7 @@
 | [1840-maximum-building-height](https://github.com/gnanaprasanna-29/leetcode/tree/master/1840-maximum-building-height) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/gnanaprasanna-29/leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/gnanaprasanna-29/leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/gnanaprasanna-29/leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/gnanaprasanna-29/leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Enumeration
 |  |
