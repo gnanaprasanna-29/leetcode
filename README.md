@@ -18,6 +18,7 @@
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/gnanaprasanna-29/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1833-maximum-ice-cream-bars](https://github.com/gnanaprasanna-29/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/gnanaprasanna-29/leetcode/tree/master/1840-maximum-building-height) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/gnanaprasanna-29/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2126-destroying-asteroids](https://github.com/gnanaprasanna-29/leetcode/tree/master/2126-destroying-asteroids) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/gnanaprasanna-29/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/gnanaprasanna-29/leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -99,6 +100,7 @@
 | ------- |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/gnanaprasanna-29/leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1833-maximum-ice-cream-bars](https://github.com/gnanaprasanna-29/leetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/gnanaprasanna-29/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2126-destroying-asteroids](https://github.com/gnanaprasanna-29/leetcode/tree/master/2126-destroying-asteroids) |
 ## Sorting
 |  |
@@ -107,6 +109,7 @@
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/gnanaprasanna-29/leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1833-maximum-ice-cream-bars](https://github.com/gnanaprasanna-29/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/gnanaprasanna-29/leetcode/tree/master/1840-maximum-building-height) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/gnanaprasanna-29/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2126-destroying-asteroids](https://github.com/gnanaprasanna-29/leetcode/tree/master/2126-destroying-asteroids) |
 | [2784-check-if-array-is-good](https://github.com/gnanaprasanna-29/leetcode/tree/master/2784-check-if-array-is-good) |
 ## Prefix Sum
