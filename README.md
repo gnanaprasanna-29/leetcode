@@ -30,6 +30,7 @@
 | [3161-block-placement-queries](https://github.com/gnanaprasanna-29/leetcode/tree/master/3161-block-placement-queries) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/gnanaprasanna-29/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/gnanaprasanna-29/leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3620-network-recovery-pathways](https://github.com/gnanaprasanna-29/leetcode/tree/master/3620-network-recovery-pathways) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/gnanaprasanna-29/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3838-weighted-word-mapping](https://github.com/gnanaprasanna-29/leetcode/tree/master/3838-weighted-word-mapping) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/gnanaprasanna-29/leetcode/tree/master/3852-smallest-pair-with-different-frequencies) |
@@ -70,6 +71,7 @@
 | [1340-jump-game-v](https://github.com/gnanaprasanna-29/leetcode/tree/master/1340-jump-game-v) |
 | [1871-jump-game-vii](https://github.com/gnanaprasanna-29/leetcode/tree/master/1871-jump-game-vii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/gnanaprasanna-29/leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3620-network-recovery-pathways](https://github.com/gnanaprasanna-29/leetcode/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/gnanaprasanna-29/leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/gnanaprasanna-29/leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/gnanaprasanna-29/leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -88,6 +90,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/gnanaprasanna-29/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gnanaprasanna-29/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [3161-block-placement-queries](https://github.com/gnanaprasanna-29/leetcode/tree/master/3161-block-placement-queries) |
+| [3620-network-recovery-pathways](https://github.com/gnanaprasanna-29/leetcode/tree/master/3620-network-recovery-pathways) |
 ## Simulation
 |  |
 | ------- |
@@ -202,10 +205,12 @@
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/gnanaprasanna-29/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/gnanaprasanna-29/leetcode/tree/master/3620-network-recovery-pathways) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/gnanaprasanna-29/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/gnanaprasanna-29/leetcode/tree/master/3620-network-recovery-pathways) |
 ## Matrix
 |  |
 | ------- |
@@ -214,4 +219,9 @@
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/gnanaprasanna-29/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/gnanaprasanna-29/leetcode/tree/master/3620-network-recovery-pathways) |
+## Topological Sort
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/gnanaprasanna-29/leetcode/tree/master/3620-network-recovery-pathways) |
 <!---LeetCode Topics End-->
