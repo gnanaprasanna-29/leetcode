@@ -29,6 +29,7 @@
 | [3093-longest-common-suffix-queries](https://github.com/gnanaprasanna-29/leetcode/tree/master/3093-longest-common-suffix-queries) |
 | [3161-block-placement-queries](https://github.com/gnanaprasanna-29/leetcode/tree/master/3161-block-placement-queries) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/gnanaprasanna-29/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/gnanaprasanna-29/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/gnanaprasanna-29/leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3620-network-recovery-pathways](https://github.com/gnanaprasanna-29/leetcode/tree/master/3620-network-recovery-pathways) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/gnanaprasanna-29/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -70,6 +71,7 @@
 | [0053-maximum-subarray](https://github.com/gnanaprasanna-29/leetcode/tree/master/0053-maximum-subarray) |
 | [1340-jump-game-v](https://github.com/gnanaprasanna-29/leetcode/tree/master/1340-jump-game-v) |
 | [1871-jump-game-vii](https://github.com/gnanaprasanna-29/leetcode/tree/master/1871-jump-game-vii) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/gnanaprasanna-29/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/gnanaprasanna-29/leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3620-network-recovery-pathways](https://github.com/gnanaprasanna-29/leetcode/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/gnanaprasanna-29/leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
@@ -154,6 +156,7 @@
 |  |
 | ------- |
 | [1840-maximum-building-height](https://github.com/gnanaprasanna-29/leetcode/tree/master/1840-maximum-building-height) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/gnanaprasanna-29/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/gnanaprasanna-29/leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/gnanaprasanna-29/leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/gnanaprasanna-29/leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -227,4 +230,8 @@
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/gnanaprasanna-29/leetcode/tree/master/3620-network-recovery-pathways) |
+## Number Theory
+|  |
+| ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/gnanaprasanna-29/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 <!---LeetCode Topics End-->
