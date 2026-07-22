@@ -31,6 +31,7 @@
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/gnanaprasanna-29/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/gnanaprasanna-29/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/gnanaprasanna-29/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/gnanaprasanna-29/leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/gnanaprasanna-29/leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3620-network-recovery-pathways](https://github.com/gnanaprasanna-29/leetcode/tree/master/3620-network-recovery-pathways) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/gnanaprasanna-29/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -98,6 +99,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gnanaprasanna-29/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [3161-block-placement-queries](https://github.com/gnanaprasanna-29/leetcode/tree/master/3161-block-placement-queries) |
 | [3312-sorted-gcd-pair-queries](https://github.com/gnanaprasanna-29/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/gnanaprasanna-29/leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3620-network-recovery-pathways](https://github.com/gnanaprasanna-29/leetcode/tree/master/3620-network-recovery-pathways) |
 ## Simulation
 |  |
@@ -146,6 +148,7 @@
 | [3093-longest-common-suffix-queries](https://github.com/gnanaprasanna-29/leetcode/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/gnanaprasanna-29/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/gnanaprasanna-29/leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/gnanaprasanna-29/leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/gnanaprasanna-29/leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/gnanaprasanna-29/leetcode/tree/master/3614-process-string-with-special-operations-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/gnanaprasanna-29/leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -162,6 +165,7 @@
 |  |
 | ------- |
 | [3161-block-placement-queries](https://github.com/gnanaprasanna-29/leetcode/tree/master/3161-block-placement-queries) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/gnanaprasanna-29/leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/gnanaprasanna-29/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Math
 |  |
